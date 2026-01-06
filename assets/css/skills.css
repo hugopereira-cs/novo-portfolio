@@ -1,0 +1,70 @@
+#content-skills {
+  display: flex;
+  flex-direction: column;
+  max-width: 90%;
+}
+
+.accordion .hardSkills .skills {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.accordion .hardSkills .skills li {
+  list-style: none;
+  padding: 0 .5rem .5rem 0;
+}
+
+.accordion .skills li img {
+  width: 2rem;
+  height: 2rem;
+}
+
+.accordion .softSkills .skills li {
+  list-style: disc;
+}
+
+@media (min-width: 768px) {
+  .accordion .skills li img {
+  width: 2.5rem;
+  height: 2.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  #content-skills {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .accordion .hardSkills .skills {
+    flex-wrap: wrap;
+    width: 60%;
+  }
+
+  .accordion .hardSkills .skills li {
+  padding-right: 1rem;
+  }
+
+
+
+  .accordion .softSkills .skills {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .accordion .softSkills .skills li {
+    padding: .5rem;
+  }
+}
+
+@media (min-width: 1440px) {
+  .accordion .hardSkills .skills li {
+  padding: 0 1rem 1rem 0;
+  }
+
+  .accordion .skills li img {
+  width: 3rem;
+  height: 3rem;
+  }
+}
