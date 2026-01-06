@@ -5,11 +5,69 @@
   "location": "Paraíba do Sul - RJ",
   "linkedin": "https://www.linkedin.com/in/hugopereiradev/",
   "email": "hugo.pereira.codes@gmail.com",
-  "skills": [
+  "skills": { 
+    "hardskills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/js.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/css.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/html.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/python.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/github.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Empatia",
+      "Trabalho em equipe",
+      "Autogestão",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Italiano (básico)",
+    "Espanhol (básico"
+  ],
+  "portfolio": [
     {
-      "name": "JavaScript",
-      "logo": ""
+      "name": "Site Conversor de Temperatura",
+      "url": "https://hugopereira-cs.github.io/conversor-de-temperatura",
+      "github": true
+    },
+    {
+      "name": "Spider-Man Multiverse",
+      "url": "https://hugopereira-cs.github.io/spider-man_multiverses",
+      "github": true
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://hugopereira-cs.github.io/js-developer-pokedex",
+      "github": true
     }
+  ],
+  "profissionalExperience": [
+    "Em transição de carreira"
   ]
-
 }
