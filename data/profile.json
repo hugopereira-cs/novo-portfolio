@@ -1,11 +1,11 @@
 {
-  "name": "Hugo Pereira Alves da Silva",
+  "name": "Hugo Pereira",
   "photo": "https://avatars.githubusercontent.com/u/184418432?v=4",
   "job": "Desenvolvedor Front-End",
   "location": "Paraíba do Sul - RJ",
   "linkedin": "https://www.linkedin.com/in/hugopereiradev/",
   "email": "hugo.pereira.codes@gmail.com",
-  "skills": { 
+  "skills": {
     "hardskills": [
       {
         "name": "JavaScript",
@@ -44,12 +44,7 @@
       "Organização"
     ]
   },
-  "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Italiano (básico)",
-    "Espanhol (básico"
-  ],
+  "languages": ["Português BR", "Inglês (intermediário)", "Italiano (básico)"],
   "portfolio": [
     {
       "name": "Site Conversor de Temperatura",
@@ -67,7 +62,5 @@
       "github": true
     }
   ],
-  "profissionalExperience": [
-    "Em transição de carreira"
-  ]
+  "profissionalExperience": ["Em transição de carreira"]
 }

@@ -6,7 +6,7 @@
     <title>Hugo Pereira | Portfólio</title>
     <meta
       nome="description"
-      content="Portifólio do desenvolvedor front-end Hugo Pereira para compartilhar projetos e habilidades desenvolvidas."
+      content="Portfólio do desenvolvedor front-end Hugo Pereira para compartilhar projetos e habilidades desenvolvidas."
     />
 
     <link
@@ -46,28 +46,15 @@
   <body>
     <main class="main">
       <header class="header">
-        <img
-          src="assets/img/myPhoto.png"
-          alt="Foto de Hugo Pereira"
-          class="photo"
-        />
+        <img src="assets/img/myPhoto.png" alt="Foto de Perfil" class="photo" id="profile.photo"/>
 
-        <h1 class="title">Olá, <br />eu sou Hugo Pereira</h1>
+        <h1 class="title">Olá, eu sou<br/><span id="profile.name">Carregando...</span></h1>
+
         <div class="info">
-          <p class="job">Desenvolvedor Front-end</p>
-          <p class="location">Paraíba do Sul - RJ</p>
-          <p class="linkedin"
-            ><a
-              href="https://www.linkedin.com/in/hugopereiradev/"
-              target="_blank"
-              >LinkedIn</a
-            ></p
-          >
-          <p class="email"
-            ><a href="mailto:hugo.pereira.codes@gmail.com"
-              >hugo.pereira.codes@gmail.com</a
-            ></p
-          >
+          <p class="job"id="profile.job">Carregando...</p>
+          <p class="location"id="profile.location">Carregando</p>
+          <p class="linkedin"><a href="https://www.linkedin.com/in/hugopereiradev/" target="_blank" id="profile.linkedin">Carregando...</a></p>
+          <p class="email"><a href="mailto:hugo.pereira.codes@gmail.com" id="profile.mail">Carregando...</a></p>
         </div>
       </header>
 
@@ -204,5 +191,7 @@
     </main>
     
     <script src="assets/js/accordion.js"></script>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/main.js"></script>
   </body>
 </html>
