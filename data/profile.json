@@ -13,27 +13,27 @@
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/hugopereira-cs/novo-portfolio/refs/heads/main/data/imgs/css.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/hugopereira-cs/novo-portfolio/refs/heads/main/data/imgs/html.png"
       },
       {
         "name": "Python",
-        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/hugopereira-cs/novo-portfolio/refs/heads/main/data/imgs/python.png"
       },
       {
         "name": "Git",
-        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/hugopereira-cs/novo-portfolio/refs/heads/main/data/imgs/git.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/hugopereira-cs/novo-portfolio/refs/heads/main/data/imgs/github.png"
       },
       {
         "name": "PostgreSQL",
-        "logo": "https://github.com/hugopereira-cs/novo-portfolio/tree/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/hugopereira-cs/novo-portfolio/refs/heads/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
