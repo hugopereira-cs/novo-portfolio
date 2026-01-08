@@ -47,7 +47,7 @@
   "languages": ["Português BR", "Inglês (intermediário)", "Italiano (básico)"],
   "portfolio": [
     {
-      "name": "Site Conversor de Temperatura",
+      "name": "Conversor de Temperatura",
       "url": "https://hugopereira-cs.github.io/conversor-de-temperatura",
       "github": true
     },
@@ -59,7 +59,7 @@
     {
       "name": "Pokedex",
       "url": "https://hugopereira-cs.github.io/js-developer-pokedex",
-      "github": true
+      "github": false
     }
   ],
   "profissionalExperience": ["Em transição de carreira"]
