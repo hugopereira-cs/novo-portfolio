@@ -59,7 +59,7 @@
     {
       "name": "Pokedex",
       "url": "https://hugopereira-cs.github.io/js-developer-pokedex",
-      "github": false
+      "github": true
     }
   ],
   "profissionalExperience": ["Em transição de carreira"]

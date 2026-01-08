@@ -11,6 +11,8 @@
 }
 
 .accordion .hardSkills .skills li {
+  max-width: 50px;
+  max-height: 50px;
   list-style: none;
   padding: 0 .5rem .5rem 0;
 }
