@@ -45,7 +45,7 @@
   }
 
   .accordion .hardSkills .skills li {
-  padding-right: 1rem;
+  padding: 0 2rem 2rem 0;
   }
 
 
@@ -62,7 +62,7 @@
 
 @media (min-width: 1440px) {
   .accordion .hardSkills .skills li {
-  padding: 0 1rem 1rem 0;
+  padding: 0 4rem 4rem 0;
   }
 
   .accordion .skills li img {

@@ -106,11 +106,12 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 📧 Contato
 
-Link do Site: [https://hugopereira-cs.github.io/novo-portfolio/](https://hugopereira-cs.github.io/novo-portfolio/)
+Hugo Pereira - [LinkedIn](https://www.linkedin.com/in/hugopereiradev/)
 
 Link do Projeto: [https://github.com/hugopereira-cs/novo-portfolio](https://github.com/hugopereira-cs/novo-portfolio)
 
-Hugo Pereira - [LinkedIn](https://www.linkedin.com/in/hugopereiradev/) - hugo.pereira.codes@gmail.com
+E-mail: hugo.pereira.codes@gmail.com
+
 
 ---
 
