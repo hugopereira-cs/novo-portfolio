@@ -15,7 +15,7 @@
   height: 2rem;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url('assets/img/icons/elipses.svg');
+  background-image: url('../img/icons/elipses.svg');
 }
 
 .header .photo {
@@ -56,19 +56,19 @@
 }
 
 .info .job::before {
-  background-image: url('assets/img/icons/job.svg');
+  background-image: url('../img/icons/job.svg');
 }
 
 .info .location::before {
-  background-image: url('assets/img/icons/location.svg');
+  background-image: url('../img/icons/location.svg');
 }
 
 .info .linkedin::before {
-  background-image: url('assets/img/icons/linkedin.svg');
+  background-image: url('../img/icons/linkedin.svg');
 }
 
 .info .email::before {
-  background-image: url('assets/img/icons/email.svg');
+  background-image: url('../img/icons/email.svg');
 }
 
 @media (max-width: 374px) {
